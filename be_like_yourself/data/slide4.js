@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{337549DC-3BB2-4171-BFB2-FE354DF6B7D4}'];loadHandler&&loadHandler(3, '<div id="spr0_8a211e4"><div id="spr1_8a211e4" class="kern slide"><img id="img2_8a211e4" src="data/img1.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_8a211e4" class="kern slide"><div id="vd0_8a211e4" style="left:560.875px;top:235.25px;"></div><div id="spr4_8a211e4" style="left:18.375px;top:43.125px;"><img id="img0_8a211e4" src="data/img8.png" width="306" height="427" alt="A white paper with black text\
+\
+Description automatically generated" style="left:-0.213px;top:0.232px;"/></div><div id="spr5_8a211e4" style="left:329.7px;top:43.125px;"><img id="img1_8a211e4" src="data/img9.jpg" width="306" height="427" alt="Cartoon fox and mouse in a forest\
+\
+Description automatically generated" style="left:-0.213px;top:0.232px;"/></div></div></div>', '{"s":[]}');})();
