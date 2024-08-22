@@ -16,6 +16,7 @@ header {
 }
 
 header p {
+  width: 80%;
   margin: 0;
   padding: 20px 0px 30px 2.5%;
   /* width: 80%; */
@@ -117,8 +118,50 @@ footer {
   .books-container {
     grid-template-columns: 1fr;
   }
-
   .books-container::before {
     display: none;
+  }
+}
+
+@media (max-width: 800px) {
+  header a img {
+    top: 50px;
+  }
+  footer {
+    grid-template-rows: 1fr 1fr 1fr;
+    grid-template-columns: 1fr;
+    gap: 30px;
+  }
+  #one, #two {
+    text-align: left;
+    border: none;
+  }
+
+}
+
+
+@media (max-width: 600px) {
+  header {
+    padding: 20px;    
+  }
+  header p {
+    width: 60%;
+    font-size: 1.5rem;
+  }
+  .books-container {
+    margin: 0;
+  }
+  .aBook{
+    border-radius: 0;
+    padding: 10px;
+    margin: 0;
+    /* width: 100%; */
+  }
+  .aBook a img {
+    width: 50%;
+  }
+  footer {
+    gap: 0;
+    padding: 15px;
   }
 }
